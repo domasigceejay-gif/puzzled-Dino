@@ -1,0 +1,6 @@
+{
+  "name": "Dino Dig: Fossil Puzzle",
+  "description": "A challenging grid-based puzzle game for teenagers where you excavate dinosaur fossils and answer educational trivia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
